@@ -1,27 +1,27 @@
 [
   {
     "full_name": "nandorojo/moti",
-    "stargazers_count": 3041,
+    "stargazers_count": 3049,
     "open_issues_count": 10,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 21725,
-    "open_issues_count": 155,
-    "forks_count": 642
+    "stargazers_count": 21823,
+    "open_issues_count": 166,
+    "forks_count": 644
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 3518,
-    "open_issues_count": 16,
-    "forks_count": 198
+    "stargazers_count": 3543,
+    "open_issues_count": 17,
+    "forks_count": 203
   },
   {
     "full_name": "illacloud/illa-builder",
-    "stargazers_count": 2595,
-    "open_issues_count": 5,
-    "forks_count": 141
+    "stargazers_count": 2662,
+    "open_issues_count": 4,
+    "forks_count": 145
   },
   {
     "full_name": "FormidableLabs/react-live",
@@ -31,37 +31,37 @@
   },
   {
     "full_name": "nihgwu/react-runner",
-    "stargazers_count": 311,
+    "stargazers_count": 312,
     "open_issues_count": 13,
     "forks_count": 8
   },
   {
     "full_name": "codesandbox/sandpack",
-    "stargazers_count": 2836,
+    "stargazers_count": 2851,
     "open_issues_count": 23,
     "forks_count": 195
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15624,
-    "open_issues_count": 93,
-    "forks_count": 747
+    "stargazers_count": 15654,
+    "open_issues_count": 91,
+    "forks_count": 749
   },
   {
     "full_name": "dethcrypto/TypeChain",
-    "stargazers_count": 2336,
-    "open_issues_count": 102,
-    "forks_count": 301
+    "stargazers_count": 2337,
+    "open_issues_count": 101,
+    "forks_count": 300
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13824,
+    "stargazers_count": 13857,
     "open_issues_count": 2,
-    "forks_count": 1088
+    "forks_count": 1095
   },
   {
     "full_name": "jasonkuhrt/alge",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 8,
     "forks_count": 4
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 2735,
+    "stargazers_count": 2741,
     "open_issues_count": 13,
     "forks_count": 102
   },
@@ -91,92 +91,92 @@
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 12608,
-    "open_issues_count": 372,
-    "forks_count": 2395
+    "stargazers_count": 12622,
+    "open_issues_count": 375,
+    "forks_count": 2398
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 41701,
-    "open_issues_count": 795,
-    "forks_count": 5506
+    "stargazers_count": 41714,
+    "open_issues_count": 797,
+    "forks_count": 5505
   },
   {
     "full_name": "eslint/espree",
-    "stargazers_count": 1955,
+    "stargazers_count": 1960,
     "open_issues_count": 4,
     "forks_count": 199
   },
   {
     "full_name": "jquery/esprima",
-    "stargazers_count": 6657,
+    "stargazers_count": 6658,
     "open_issues_count": 142,
     "forks_count": 793
   },
   {
     "full_name": "estools/escodegen",
-    "stargazers_count": 2471,
+    "stargazers_count": 2470,
     "open_issues_count": 140,
     "forks_count": 346
   },
   {
     "full_name": "acornjs/acorn",
-    "stargazers_count": 8968,
+    "stargazers_count": 8975,
     "open_issues_count": 27,
-    "forks_count": 838
+    "forks_count": 840
   },
   {
     "full_name": "ether/etherpad-lite",
-    "stargazers_count": 13621,
-    "open_issues_count": 149,
-    "forks_count": 2477
+    "stargazers_count": 13629,
+    "open_issues_count": 150,
+    "forks_count": 2479
   },
   {
     "full_name": "illuspas/Node-Media-Server",
-    "stargazers_count": 5134,
-    "open_issues_count": 383,
-    "forks_count": 1367
+    "stargazers_count": 5137,
+    "open_issues_count": 384,
+    "forks_count": 1368
   },
   {
     "full_name": "JohannesKlauss/react-hotkeys-hook",
-    "stargazers_count": 1329,
-    "open_issues_count": 27,
+    "stargazers_count": 1336,
+    "open_issues_count": 14,
     "forks_count": 62
   },
   {
     "full_name": "elmasse/nextein",
-    "stargazers_count": 900,
+    "stargazers_count": 899,
     "open_issues_count": 2,
     "forks_count": 51
   },
   {
     "full_name": "ecyrbe/zodios",
-    "stargazers_count": 424,
-    "open_issues_count": 6,
+    "stargazers_count": 430,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "Saul-Mirone/milkdown",
     "stargazers_count": 6931,
     "open_issues_count": 13,
-    "forks_count": 317
+    "forks_count": 316
   },
   {
     "full_name": "ravynsoft/ravynos",
-    "stargazers_count": 4663,
+    "stargazers_count": 4670,
     "open_issues_count": 107,
     "forks_count": 159
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 2786,
-    "open_issues_count": 15,
+    "stargazers_count": 2808,
+    "open_issues_count": 16,
     "forks_count": 33
   },
   {
     "full_name": "b-zurg/react-collapse-pane",
-    "stargazers_count": 186,
-    "open_issues_count": 25,
+    "stargazers_count": 187,
+    "open_issues_count": 26,
     "forks_count": 35
   }
 ]
